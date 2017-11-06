@@ -1,0 +1,81 @@
+#main{
+    display: block;
+    width: 950px;
+    margin: 0 auto;
+    margin-top: 10px;
+    color: #003366;
+
+    padding-top: 2px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+#individual_blog{
+    color: #004080;
+    font-family: "Times New Roman", Georgia, Serif;
+
+}
+#comment{
+    width: 700px;
+    padding-left: 5%;
+    border: 1px;
+    margin: 0 auto;
+}
+#comment tr td{
+    border-spacing: 5em;
+    border-bottom:1px solid #003366;
+    text-align:left;
+    padding-top: 10px;
+    padding-left: 5%;
+    vertical-align: top;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 16px;
+
+}
+#list_of_blog{
+
+    background-color:#F8F9F9;
+    color: deepskyblue;
+    padding: 5%;
+    display: block;
+    font-size: 20px;
+
+}
+P{
+    text-indent: 50px;
+    color: #003366;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 16px;
+}
+div ul li{
+    list-style-type: none;
+}
+#textresponse{
+    width: 650px;
+
+}
+#logo{
+    margin-left: 10px;
+    width:55px;
+    height:55px;
+
+}
+#btn{
+        width: 100px;
+        height: 40px;
+        background-color:#003366;
+        border-radius: 10%;
+        color: white;
+        border-radius: 12%;
+        font-size:25px;
+    margin-right: 160px;
+    align:right;
+    float: right;
+}
+#btn:hover{
+    width: 110px;
+    background-color:#F8F9F9;
+    color:#003366;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+#footer{
+    margin: 0 auto;
+}
